@@ -1,0 +1,5 @@
+flast
+tensorflow
+opencv-python
+numpy
+pillow
